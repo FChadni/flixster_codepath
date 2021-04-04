@@ -1,16 +1,17 @@
 {
   "images" : [
     {
+      "filename" : "notification-icon.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Twitter_Logo_Blue-1.png",
+      "filename" : "notification-icon@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Twitter_Logo_Blue-2.png",
+      "filename" : "notification-icon@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
